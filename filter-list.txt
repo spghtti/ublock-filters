@@ -1,6 +1,9 @@
 ||discord.com/api/v*/science
 ||discord.com/api/*/typing
 
+||discord.com/api/v*/science
+||discord.com/api/*/typing
+
 ! 2023-04-30 https://blog.logrocket.com
 blog.logrocket.com##.typescript-popup.news-pop-outer-wrap.news-pop
 
@@ -24,7 +27,7 @@ blog.bitsrc.io##.ff.cn.ab.afe.im.afd.afc.il.afb.afa.ik.aez.v.ij.aey.t.ii.aex
 
 ! 2023-08-01 https://linkedin.com
 www.linkedin.com##li:has-text(Promoted)
-www.linkedin.com##li:has-text(Jobot)
+h
 www.linkedin.com##li:has-text(Dice) 
 www.linkedin.com##li:has-text(CyberCoders) 
 www.linkedin.com##li:has-text(Aha!) 
@@ -60,4 +63,5 @@ app.sophia.org##.assessment-take__main-nav__row
 ! 2023-09-06 https://www.khanacademy.org
 www.khanacademy.org###donate-banner
 
-
+twitter.com##[aria-label$="who to follow" i]
+twitter.com##[aria-label$="subscribe to premium" i]
