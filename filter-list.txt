@@ -6,66 +6,34 @@
 
 ! 2023-04-30 https://blog.logrocket.com
 blog.logrocket.com##.typescript-popup.news-pop-outer-wrap.news-pop
-
-! 2023-05-06 https://coolors.co
 coolors.co##.aOu2iYIQNmE.aqVlwe61OMJ
 coolors.co##.a6mTnRqgVrC.aoM18XLiloD.aA0wMsRMXsm.a1o24YBmUwI
 coolors.co##.aYXi2rwidDY.aFxPAGB3g29.aMOxqLDuw7O
-
-! 2023-06-13 https://www.linkedin.com
 www.linkedin.com##.scaffold-layout__aside
-
-! 2023-06-14 https://twitter.com
 twitter.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-1d6w8o1.r-x572qd.css-1dbjc4n:nth-of-type(5)
 twitter.com##.r-1f1sjgu.r-ymttw5.r-uaa2di.r-eqz5dr.r-1habvwh.css-1dbjc4n
-
-! 2023-06-30 https://www.indeed.com
 www.indeed.com##.e37uo190.css-zdpfni
-
-! 2023-07-07 https://blog.bitsrc.io
 blog.bitsrc.io##.ff.cn.ab.afe.im.afd.afc.il.afb.afa.ik.aez.v.ij.aey.t.ii.aex
-
-! 2023-08-01 https://linkedin.com
 www.linkedin.com##li:has-text(Promoted)
-h
 www.linkedin.com##li:has-text(Dice) 
 www.linkedin.com##li:has-text(CyberCoders) 
 www.linkedin.com##li:has-text(Aha!) 
 www.linkedin.com##li:has-text(Talentify.io)
-
-! 2023-08-04 https://www.ziprecruiter.com
 www.ziprecruiter.com##.survey_content
-
-! 2023-08-06 https://studentaid.gov
 studentaid.gov##.expanded.init-container
-
-! 2023-08-08 https://www.wgu.edu
 www.wgu.edu##.basicLightbox--visible.basicLightbox
-
-! 2023-08-16 https://mail.google.com
 mail.google.com##.GR
-
-! 2023-08-20 https://www.youtube.com
 www.youtube.com##ytd-shelf-renderer.ytd-item-section-renderer.style-scope > .ytd-shelf-renderer.style-scope
-
-! 2023-08-26 https://www.linkedin.com
 www.linkedin.com##.global-nav__app-launcher-trigger.pl3.global-nav__primary-item--divider.global-nav__primary-link
 www.linkedin.com##.premium-upsell-link--extra-long.premium-upsell-link--truncate.global-nav__spotlight-upsell.global-nav__primary-link--premium.global-nav__primary-link.link-without-visited-state
-
-! 2023-08-29 https://www.symbolab.com
 www.symbolab.com###save-as-bookmark > svg > use
 www.symbolab.com###right-section
 www.symbolab.com##.print-hide.center-section-narrow.sidebar-content1
-
-! 2023-09-06 https://app.sophia.org
 app.sophia.org##.assessment-take__main-nav__row
-
-! 2023-09-06 https://www.khanacademy.org
 www.khanacademy.org###donate-banner
-
 twitter.com##[data-testid="UserCell"]
 twitter.com##span:has-text(Show more):nth-ancestor(2)
 twitter.com##span:has-text(Who to follow):nth-ancestor(5)
-
 twitter.com##[aria-label$="subscribe to premium" i]
 twitter.com##[aria-label$="who to follow" i]
+reddit.com##[aria-label$="more posts you may like" i]
