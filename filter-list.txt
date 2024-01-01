@@ -68,3 +68,4 @@ twitter.com##span:has-text(Show more):nth-ancestor(2)
 twitter.com##span:has-text(Who to follow):nth-ancestor(5)
 
 twitter.com##[aria-label$="subscribe to premium" i]
+twitter.com##[aria-label$="who to follow" i]
