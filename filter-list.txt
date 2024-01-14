@@ -56,3 +56,4 @@ www.reddit.com##body[style*="overflow"]:style(overflow:auto!important;)
 ||accounts.google.com/gsi/*$xhr,script,3p
 twitter.com##[aria-label$="trending now" i]:nth-ancestor(2)
 twitter.com##[aria-label="who to follow" i]:nth-ancestor(2)
+twitter.com##[data-testid="inlinePrompt"]:nth-ancestor(2)
