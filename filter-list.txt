@@ -61,4 +61,4 @@ fandom.com##.global-navigation
 fandom.com##.notifications-placeholder
 fandom.com##.fandom-sticky-header
 fandom.com##.global-registration-buttons
-fandom.com##.mixed-content-footer
+fandom.com###mixed-content-footer
