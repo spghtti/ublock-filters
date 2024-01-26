@@ -57,3 +57,7 @@ www.reddit.com##body[style*="overflow"]:style(overflow:auto!important;)
 twitter.com##[aria-label$="trending now" i]:nth-ancestor(2)
 twitter.com##[aria-label="who to follow" i]:nth-ancestor(2)
 twitter.com##[data-testid="inlinePrompt"]:nth-ancestor(2)
+fandom.com##.global-navigation
+fandom.com##.notifications-placeholder
+fandom.com##.fandom-sticky-header
+fandom.com##.global-registration-buttons
