@@ -63,3 +63,4 @@ fandom.com##.fandom-sticky-header
 fandom.com##.global-registration-buttons
 fandom.com##.mcf-en
 fandom.com##.mcf-content
+fandom.com##.mcf-wrapper
