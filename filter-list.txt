@@ -65,3 +65,4 @@ fandom.com##.global-navigation__top
 fandom.com##.is-visible.fandom-sticky-header
 fandom.com##.wds-global-footer
 fandom.com##.page-side-tools__wrapper
+fandom.com##.page__right-rail
