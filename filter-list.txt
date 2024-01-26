@@ -62,5 +62,6 @@ fandom.com##.notifications-placeholder
 fandom.com##.fandom-sticky-header
 fandom.com##.global-registration-buttons
 fandom.com##.mcf-en
+fandom.com,wikia.com###mixed-content-footer
 fandom.com##.mcf-content
 fandom.com##.mcf-wrapper
