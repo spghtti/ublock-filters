@@ -3,6 +3,8 @@
 ||discord.com/api/v*/science
 ||discord.com/api/*/typing
 
+discord.com##[href$="/shop"]
+
 blog.logrocket.com##.typescript-popup.news-pop-outer-wrap.news-pop
 coolors.co##.aOu2iYIQNmE.aqVlwe61OMJ
 coolors.co##.a6mTnRqgVrC.aoM18XLiloD.aA0wMsRMXsm.a1o24YBmUwI
