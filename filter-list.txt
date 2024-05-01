@@ -38,6 +38,7 @@ twitter.com##[aria-label$="subscribe to premium" i]
 twitter.com##[aria-label$="who to follow" i]
 twitter.com##[aria-label$="Compose a post"]
 twitter.com##[aria-label$="Premium"]
+twitter.com##[aria-labelledby$="accessible-list-2"]
 reddit.com##[aria-label$="Related content"]
 reddit.com##.w-100.right-sidebar.block
 www.reddit.com##.XPromoPopupRpl
