@@ -63,6 +63,7 @@ www.reddit.com##.XPromoPopupRpl
 www.reddit.com##xpromo-new-app-selector
 www.reddit.com##.bottom-bar, .XPromoBottomBar
 www.reddit.com##.useApp,.TopNav__promoButton
+www.reddit.com##award-button
 www.reddit.com##body:style(pointer-events:auto!important;)
 reddit.com##.XPromoPopup
 reddit.com##body.scroll-disabled:style(overflow: visible!important; position: static!important;)
