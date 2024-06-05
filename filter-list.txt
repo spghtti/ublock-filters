@@ -74,6 +74,7 @@ www.reddit.com##xpromo-app-selector
 www.reddit.com##body.scroll-is-blocked:style(overflow: visible!important; position: static!important;)
 www.reddit.com##+js(aeld, touchmove)
 www.reddit.com##.XPromoPopupRplNew
+www.reddit.com##.faceplate-tracker
 www.reddit.com##body[style*="pointer-events"]:style(pointer-events:auto!important;)
 www.reddit.com##body[style*="overflow"]:style(overflow:auto!important;)
 ||accounts.google.com/gsi/*$xhr,script,3p
