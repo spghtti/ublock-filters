@@ -55,7 +55,6 @@ x.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-1d6w8o1.r-x572qd.c
 x.com##.r-1f1sjgu.r-ymttw5.r-uaa2di.r-eqz5dr.r-1habvwh.css-1dbjc4n
 x.com##[aria-label$="trending now" i]:nth-ancestor(2)
 x.com##[aria-label="who to follow" i]:nth-ancestor(2)
-! x.com##[data-testid="inlinePrompt"]:nth-ancestor(2)'
 x.com##[aria-label$="Grok"]
 reddit.com##[aria-label$="Related content"]
 reddit.com##.w-100.right-sidebar.block
