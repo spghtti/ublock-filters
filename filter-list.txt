@@ -23,7 +23,6 @@ coolors.co##.aOu2iYIQNmE.aqVlwe61OMJ
 coolors.co##.aYXi2rwidDY.aFxPAGB3g29.aMOxqLDuw7O
 discord.com##[href$="/shop"]
 edhrec.com##.mv_slot_target
-edhrec.com##.shadow-sm
 fakespot.com##.affiliate-marker
 fandom.com###WikiaBar
 fandom.com##.global-navigation__top
