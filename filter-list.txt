@@ -54,7 +54,6 @@ symbolab.com###right-section
 symbolab.com###save-as-bookmark > svg > use
 symbolab.com##.print-hide.center-section-narrow.sidebar-content1
 wgu.edu##.basicLightbox--visible.basicLightbox
-x.com##.r-1f1sjgu.r-ymttw5.r-uaa2di.r-eqz5dr.r-1habvwh.css-1dbjc4n
 x.com##[aria-label$="Compose a post"]
 x.com##[aria-label$="Grok"]
 x.com##[aria-label$="Premium"]
@@ -62,9 +61,7 @@ x.com##[aria-label$="subscribe to premium" i]
 x.com##[aria-label$="trending now" i]:nth-ancestor(2)
 x.com##[aria-label$="who to follow" i]
 x.com##[aria-label="who to follow" i]:nth-ancestor(2)
-x.com##[aria-labelledby$="accessible-list-2"]
-x.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-1d6w8o1.r-x572qd.css-1dbjc4n:nth-of-type(5)
-x.com##span:has-text(Who to follow):nth-ancestor(5)
+! x.com##[aria-labelledby$="accessible-list-2"]
 youtube.com##ytd-shelf-renderer.ytd-item-section-renderer.style-scope > .ytd-shelf-renderer.style-scope
 ziprecruiter.com##.survey_content
 ||accounts.google.com/gsi/*$xhr,script,3p
