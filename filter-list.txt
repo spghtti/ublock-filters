@@ -1,75 +1,74 @@
-||discord.com/api/v*/science
-||discord.com/api/*/typing
-||discord.com/api/v*/science
-||discord.com/api/*/typing
-
-discord.com##[href$="/shop"]
-
-blog.logrocket.com##.typescript-popup.news-pop-outer-wrap.news-pop
-coolors.co##.aOu2iYIQNmE.aqVlwe61OMJ
-coolors.co##.a6mTnRqgVrC.aoM18XLiloD.aA0wMsRMXsm.a1o24YBmUwI
-coolors.co##.aYXi2rwidDY.aFxPAGB3g29.aMOxqLDuw7O
-www.linkedin.com##.scaffold-layout__aside
-www.indeed.com##.e37uo190.css-zdpfni
-blog.bitsrc.io##.ff.cn.ab.afe.im.afd.afc.il.afb.afa.ik.aez.v.ij.aey.t.ii.aex
-www.linkedin.com##li:has-text(Promoted)
-www.linkedin.com##li:has-text(Dice) 
-www.linkedin.com##li:has-text(CyberCoders) 
-www.linkedin.com##li:has-text(Aha!) 
-www.linkedin.com##li:has-text(Talentify.io)
-www.ziprecruiter.com##.survey_content
-studentaid.gov##.expanded.init-container
-www.wgu.edu##.basicLightbox--visible.basicLightbox
-mail.google.com##.GR
-www.youtube.com##ytd-shelf-renderer.ytd-item-section-renderer.style-scope > .ytd-shelf-renderer.style-scope
-www.linkedin.com##.global-nav__app-launcher-trigger.pl3.global-nav__primary-item--divider.global-nav__primary-link
-www.linkedin.com##.premium-upsell-link--extra-long.premium-upsell-link--truncate.global-nav__spotlight-upsell.global-nav__primary-link--premium.global-nav__primary-link.link-without-visited-state
-www.symbolab.com###save-as-bookmark > svg > use
-www.symbolab.com###right-section
-www.symbolab.com##.print-hide.center-section-narrow.sidebar-content1
-app.sophia.org##.assessment-take__main-nav__row
-www.khanacademy.org###donate-banner
+! reddit.com##body:style(pointer-events:auto!important;)
+! twitter.com##.r-1f1sjgu.r-ymttw5.r-uaa2di.r-eqz5dr.r-1habvwh.css-1dbjc4n
+! twitter.com##[aria-label$="Compose a post"]
+! twitter.com##[aria-label$="Grok"]
+! twitter.com##[aria-label$="Premium"]
+! twitter.com##[aria-label$="subscribe to premium" i]
+! twitter.com##[aria-label$="trending now" i]:nth-ancestor(2)
+! twitter.com##[aria-label$="who to follow" i]
+! twitter.com##[aria-label="who to follow" i]:nth-ancestor(2)
+! twitter.com##[aria-labelledby$="accessible-list-2"]
 ! twitter.com##[data-testid="UserCell"]
+! twitter.com##[data-testid="inlinePrompt"]:nth-ancestor(2)'
+! twitter.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-1d6w8o1.r-x572qd.css-1dbjc4n:nth-of-type(5)
 ! twitter.com##span:has-text(Show more):nth-ancestor(2)
 ! twitter.com##span:has-text(Who to follow):nth-ancestor(5)
-! twitter.com##[aria-label$="subscribe to premium" i]
-! twitter.com##[aria-label$="who to follow" i]
-! twitter.com##[aria-label$="Compose a post"]
-! twitter.com##[aria-label$="Premium"]
-! twitter.com##[aria-labelledby$="accessible-list-2"]
-! twitter.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-1d6w8o1.r-x572qd.css-1dbjc4n:nth-of-type(5)
-! twitter.com##.r-1f1sjgu.r-ymttw5.r-uaa2di.r-eqz5dr.r-1habvwh.css-1dbjc4n
-! twitter.com##[aria-label$="trending now" i]:nth-ancestor(2)
-! twitter.com##[aria-label="who to follow" i]:nth-ancestor(2)
-! twitter.com##[data-testid="inlinePrompt"]:nth-ancestor(2)'
-! twitter.com##[aria-label$="Grok"]
 ! x.com##span:has-text(Show more):nth-ancestor(2)
-x.com##span:has-text(Who to follow):nth-ancestor(5)
-x.com##[aria-label$="subscribe to premium" i]
-x.com##[aria-label$="who to follow" i]
-x.com##[aria-label$="Compose a post"]
-x.com##[aria-label$="Premium"]
-x.com##[aria-labelledby$="accessible-list-2"]
-x.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-1d6w8o1.r-x572qd.css-1dbjc4n:nth-of-type(5)
-x.com##.r-1f1sjgu.r-ymttw5.r-uaa2di.r-eqz5dr.r-1habvwh.css-1dbjc4n
-x.com##[aria-label$="trending now" i]:nth-ancestor(2)
-x.com##[aria-label="who to follow" i]:nth-ancestor(2)
-x.com##[aria-label$="Grok"]
-reddit.com##[aria-label$="Related content"]
-reddit.com##.w-100.right-sidebar.block
-www.reddit.com##award-button
-! www.reddit.com##body:style(pointer-events:auto!important;)
-www.reddit.com##.faceplate-tracker
-||accounts.google.com/gsi/*$xhr,script,3p
+
+app.sophia.org##.assessment-take__main-nav__row
+blog.bitsrc.io##.ff.cn.ab.afe.im.afd.afc.il.afb.afa.ik.aez.v.ij.aey.t.ii.aex
+blog.logrocket.com##.typescript-popup.news-pop-outer-wrap.news-pop
+coolors.co##.a6mTnRqgVrC.aoM18XLiloD.aA0wMsRMXsm.a1o24YBmUwI
+coolors.co##.aOu2iYIQNmE.aqVlwe61OMJ
+coolors.co##.aYXi2rwidDY.aFxPAGB3g29.aMOxqLDuw7O
+discord.com##[href$="/shop"]
+fakespot.com##.affiliate-marker
 fandom.com###WikiaBar
-fandom.com##.mcf-wrapper
-fandom.com##.wds-global-footer__main
-fandom.com##.message
 fandom.com##.global-navigation__top
 fandom.com##.is-visible.fandom-sticky-header
-fandom.com##.wds-global-footer
+fandom.com##.mcf-wrapper
+fandom.com##.message
 fandom.com##.page-side-tools__wrapper
 fandom.com##.page__right-rail
-fakespot.com##.affiliate-marker
-reddit.com##[data-author="AutoModerator"]
+fandom.com##.wds-global-footer
+fandom.com##.wds-global-footer__main
+indeed.com##.e37uo190.css-zdpfni
+khanacademy.org###donate-banner
+linkedin.com##.global-nav__app-launcher-trigger.pl3.global-nav__primary-item--divider.global-nav__primary-link
+linkedin.com##.premium-upsell-link--extra-long.premium-upsell-link--truncate.global-nav__spotlight-upsell.global-nav__primary-link--premium.global-nav__primary-link.link-without-visited-state
+linkedin.com##.scaffold-layout__aside
+linkedin.com##li:has-text(Aha!)
+linkedin.com##li:has-text(CyberCoders)
+linkedin.com##li:has-text(Dice)
+linkedin.com##li:has-text(Promoted)
+linkedin.com##li:has-text(Talentify.io)
+mail.google.com##.GR
 reddit.com###right-sidebar-container
+reddit.com##.faceplate-tracker
+reddit.com##.w-100.right-sidebar.block
+reddit.com##[aria-label$="Related content"]
+reddit.com##[data-author="AutoModerator"]
+reddit.com##award-button
+studentaid.gov##.expanded.init-container
+symbolab.com###right-section
+symbolab.com###save-as-bookmark > svg > use
+symbolab.com##.print-hide.center-section-narrow.sidebar-content1
+wgu.edu##.basicLightbox--visible.basicLightbox
+x.com##.r-1f1sjgu.r-ymttw5.r-uaa2di.r-eqz5dr.r-1habvwh.css-1dbjc4n
+x.com##[aria-label$="Compose a post"]
+x.com##[aria-label$="Grok"]
+x.com##[aria-label$="Premium"]
+x.com##[aria-label$="subscribe to premium" i]
+x.com##[aria-label$="trending now" i]:nth-ancestor(2)
+x.com##[aria-label$="who to follow" i]
+x.com##[aria-label="who to follow" i]:nth-ancestor(2)
+x.com##[aria-labelledby$="accessible-list-2"]
+x.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-1d6w8o1.r-x572qd.css-1dbjc4n:nth-of-type(5)
+x.com##span:has-text(Who to follow):nth-ancestor(5)
+youtube.com##ytd-shelf-renderer.ytd-item-section-renderer.style-scope > .ytd-shelf-renderer.style-scope
+ziprecruiter.com##.survey_content
+||accounts.google.com/gsi/*$xhr,script,3p
+||discord.com/api/*/typing
+||discord.com/api/*/typing
+||discord.com/api/v*/science
+||discord.com/api/v*/science
