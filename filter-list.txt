@@ -52,9 +52,9 @@ x.com##[aria-label$="Compose a post"]
 x.com##[aria-label$="Grok"]
 x.com##[aria-label$="Premium"]
 x.com##[aria-label$="subscribe to premium" i]
-x.com##[aria-label$="trending now" i]:nth-ancestor(2)
+! x.com##[aria-label$="trending now" i]:nth-ancestor(2)
 x.com##[aria-label$="who to follow" i]
-x.com##[aria-label="who to follow" i]:nth-ancestor(2)
+! x.com##[aria-label="who to follow" i]:nth-ancestor(2)
 youtube.com##ytd-shelf-renderer.ytd-item-section-renderer.style-scope > .ytd-shelf-renderer.style-scope
 youtube.com##[is-shorts=""]
 ziprecruiter.com##.survey_content
