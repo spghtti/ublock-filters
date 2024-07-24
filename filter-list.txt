@@ -37,12 +37,11 @@ twitter.com##[aria-label$="Compose a post"]
 twitter.com##[aria-label$="Grok"]
 twitter.com##[aria-label$="Premium"]
 twitter.com##[aria-label$="subscribe to premium" i]
-twitter.com##[aria-label$="trending now" i]:nth-ancestor(2)
+! twitter.com##[aria-label$="trending now" i]:nth-ancestor(2)
 twitter.com##[aria-label$="who to follow" i]
-twitter.com##[aria-label="who to follow" i]:nth-ancestor(2)
+! twitter.com##[aria-label="who to follow" i]:nth-ancestor(2)
 twitter.com##[aria-labelledby$="accessible-list-2"]
-twitter.com##[data-testid="inlinePrompt"]:nth-ancestor(2)'
-twitter.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-1d6w8o1.r-x572qd.css-1dbjc4n:nth-of-type(5)
+! twitter.com##[data-testid="inlinePrompt"]:nth-ancestor(2)'
 twitter.com##[data-testid="ScrollSnap-SwipeableList"]
 wordreference.com###infoone
 wordreference.com###infotwo
