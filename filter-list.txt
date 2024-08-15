@@ -52,6 +52,7 @@ x.com##[aria-label$="Compose a post"]
 x.com##[aria-label$="Grok"]
 x.com##[aria-label$="Premium"]
 x.com##[aria-label$="subscribe to premium" i]
+x.com##[href$="/i/premium_sign_up"]
 ! x.com##[aria-label$="trending now" i]:nth-ancestor(2)
 x.com##[aria-label$="who to follow" i]
 ! x.com##[aria-label="who to follow" i]:nth-ancestor(2)
