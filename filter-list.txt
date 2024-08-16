@@ -1,5 +1,6 @@
 app.sophia.org##.assessment-take__main-nav__row
 archidekt.com##[href$="/shop"]
+beta.maps.apple.com##.blur-layer
 blog.bitsrc.io##.ff.cn.ab.afe.im.afd.afc.il.afb.afa.ik.aez.v.ij.aey.t.ii.aex
 blog.logrocket.com##.typescript-popup.news-pop-outer-wrap.news-pop
 coolors.co##.a6mTnRqgVrC.aoM18XLiloD.aA0wMsRMXsm.a1o24YBmUwI
