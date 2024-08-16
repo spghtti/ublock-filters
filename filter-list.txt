@@ -23,7 +23,6 @@ linkedin.com##.global-nav__app-launcher-trigger.pl3.global-nav__primary-item--di
 linkedin.com##.premium-upsell-link--extra-long.premium-upsell-link--truncate.global-nav__spotlight-upsell.global-nav__primary-link--premium.global-nav__primary-link.link-without-visited-state
 linkedin.com##.scaffold-layout__aside
 mail.google.com##.GR
-reddit.com###right-sidebar-container
 reddit.com##.faceplate-tracker
 reddit.com##.w-100.right-sidebar.block
 reddit.com##[aria-label$="Related content"]
