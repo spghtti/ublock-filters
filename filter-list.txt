@@ -41,9 +41,9 @@ twitter.com##[aria-label$="subscribe to premium" i]
 ! twitter.com##[aria-label$="trending now" i]:nth-ancestor(2)
 twitter.com##[aria-label$="who to follow" i]
 ! twitter.com##[aria-label="who to follow" i]:nth-ancestor(2)
-twitter.com##[aria-labelledby$="accessible-list-2"]
+! twitter.com##[aria-labelledby$="accessible-list-2"]
 ! twitter.com##[data-testid="inlinePrompt"]:nth-ancestor(2)'
-twitter.com##[data-testid="ScrollSnap-SwipeableList"]
+! twitter.com##[data-testid="ScrollSnap-SwipeableList"]
 wordreference.com###infoone
 wordreference.com###infotwo
 wordreference.com###infothree
