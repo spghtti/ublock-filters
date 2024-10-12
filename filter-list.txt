@@ -19,6 +19,7 @@ fandom.com##.page__right-rail
 fandom.com##.wds-global-footer
 fandom.com##.wds-global-footer__main
 indeed.com##.e37uo190.css-zdpfni
+justwatch.com##.offer
 khanacademy.org###donate-banner
 linkedin.com##.global-nav__app-launcher-trigger.pl3.global-nav__primary-item--divider.global-nav__primary-link
 linkedin.com##.premium-upsell-link--extra-long.premium-upsell-link--truncate.global-nav__spotlight-upsell.global-nav__primary-link--premium.global-nav__primary-link.link-without-visited-state
