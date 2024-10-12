@@ -55,6 +55,7 @@ x.com##[aria-label$="subscribe to premium" i]
 x.com##[aria-label$="Expiring soon!"]
 x.com##[href$="/i/premium_sign_up"]
 x.com##[aria-label$="who to follow" i]
+x.com##[testid$="UserCell"]
 youtube.com##ytd-shelf-renderer.ytd-item-section-renderer.style-scope > .ytd-shelf-renderer.style-scope
 youtube.com##[is-shorts=""]
 ziprecruiter.com##.survey_content
